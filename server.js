@@ -1,7 +1,3 @@
-/* eslint-disable no-case-declarations */
-/* eslint-disable consistent-return */
-/* eslint-disable no-return-await */
-
 const Koa = require('koa');
 const koaBody = require('koa-body');
 const koaStatic = require('koa-static');
